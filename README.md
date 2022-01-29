@@ -16,7 +16,7 @@
 ---
 #### Available On:
 
-  [<img src="https://img.icons8.com/material-outlined/384/000000/github.png"  height='40'>](https://github.com/004Ajay)  [<img src="https://img.icons8.com/color/480/000000/linkedin.png" height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ajay-t-shaju-976212183//)   [<img src="https://img.icons8.com/fluency/240/000000/instagram-new.png" height='40'>](https://www.instagram.com/https://www.instagram.com/mr_againster//)   [<img src="https://img.icons8.com/fluency/96/000000/domain.png" height='40'>](https://004ajay.github.io/)  
+[<img src="https://img.icons8.com/fluency/240/000000/instagram-new.png" height='40'>](https://www.instagram.com/https://www.instagram.com/mr_againster//)    [<img src="https://img.icons8.com/material-outlined/384/000000/github.png"  height='40'>](https://github.com/004Ajay)   [<img src="https://img.icons8.com/color/480/000000/linkedin.png" height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ajay-t-shaju-976212183//)   [<img src="https://img.icons8.com/fluency/96/000000/domain.png" height='40'>](https://004ajay.github.io/)  
 
 ---
 
