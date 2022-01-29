@@ -1,12 +1,21 @@
-# HelloWorld, This is AJAY here!
-## Heading
-### Heading
+
+# HelloWorld, I'm AJAY
+
+### A Passionate learner & A Budding  AI & DS Engineer
+___
+
+#### Pursuing BTech in AI & DS from SJCET Palai, Kerala
+#### Strictly Learning:
+[AJAY](https://github.com/)
+[AJAY](https://github.com/)
+[AJAY](https://github.com/)
+
 
 *This is me*
 
 This is me
 
-----
+
 ___
 
 [AJAY](https://github.com/)
@@ -32,13 +41,13 @@ ___
 
 
 <!--
-HelloWorld, I'm AJAY
 
-A Passionate learner & A Budding  AI & DS Engineer
 
---------------------------------------
 
-Pursuing BTech in AI & DS from SJCET Palai, Kerala
+
+
+
+
 
 Strictly Learning: C, java, python, social connection
 
