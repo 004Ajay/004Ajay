@@ -6,9 +6,9 @@ ___
 
 ### Pursuing BTech in AI & DS from SJCET Palai, Kerala
 #### Strictly Learning:
-[C](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
-[JAVA](<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>)
-[PYTHON](<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>)
+![C](<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>)
+![JAVA](<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>)
+![PYTHON](<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>)
 
 
 *This is me*
