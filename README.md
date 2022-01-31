@@ -1,3 +1,5 @@
+![AJAY](AJAY.jpg)
+
 # HelloWorld, I'm AJAY
 
 ### A Passionate learner & A Budding  AI & DS Engineer
