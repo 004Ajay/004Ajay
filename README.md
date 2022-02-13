@@ -22,23 +22,14 @@
 
 ---
 
+[![Ajay T Shaju's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=004Ajay&theme=react-dark)](https://github.com/004Ajay/github-readme-activity-graph)
+
+---
 
 ![Profile views](https://gpvc.arturio.dev/004Ajay)  
+
+
 <!--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Strictly Learning: C, java, python, social connection
 
