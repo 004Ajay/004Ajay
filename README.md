@@ -13,7 +13,10 @@
 
 ---
 ### Tools:
-[<img src="https://img.icons8.com/fluency/240/000000/visual-studio-code-2019.png" height='50'>](https://www.google.com/search?q=vs+code&oq=vs+code&aqs=chrome..69i57j69i59j0i433i512l2j0i512j0i433i512j0i512j69i60.1255j0j7&sourceid=chrome&ie=UTF-8) [<img src="https://img.icons8.com/officexs/480/000000/java-eclipse.png" height='50'>](https://www.google.com/search?q=eclipse+java&oq=eclipse+java&aqs=chrome..69i57j0i67j0i67i433l3j69i60l3.2800j0j7&sourceid=chrome&ie=UTF-8) [<img src="https://img.icons8.com/fluency/240/ffffff/github.png" height='50'>](https://desktop.github.com/) [<img src="https://img.icons8.com/color/480/000000/adobe-photoshop--v1.png" height='50'>](https://www.adobe.com/products/photoshop.html) [<img src="https://img.icons8.com/color/480/000000/adobe-illustrator--v1.png" height='50'>](https://www.adobe.com/products/illustrator.html)  [<img src="https://img.icons8.com/cute-clipart/256/000000/canva-app.png" height='50'>](https://www.canva.com/)
+
+
+
+[<img src="https://img.icons8.com/fluency/240/000000/visual-studio-code-2019.png" height='50'>](https://www.google.com/search?q=vs+code&oq=vs+code&aqs=chrome..69i57j69i59j0i433i512l2j0i512j0i433i512j0i512j69i60.1255j0j7&sourceid=chrome&ie=UTF-8) [<img src="https://img.icons8.com/fluency/240/000000/jupyter.png" height='50'>](https://www.google.com/search?q=vs+code&oq=vs+code&aqs=chrome..69i57j69i59j0i433i512l2j0i512j0i433i512j0i512j69i60.1255j0j7&sourceid=chrome&ie=UTF-8) [<img src="https://img.icons8.com/fluency/240/ffffff/github.png" height='50'>](https://desktop.github.com/) [<img src="https://img.icons8.com/officexs/480/000000/java-eclipse.png" height='50'>](https://www.google.com/search?q=eclipse+java&oq=eclipse+java&aqs=chrome..69i57j0i67j0i67i433l3j69i60l3.2800j0j7&sourceid=chrome&ie=UTF-8) [<img src="https://img.icons8.com/color/480/000000/adobe-photoshop--v1.png" height='50'>](https://www.adobe.com/products/photoshop.html) [<img src="https://img.icons8.com/color/480/000000/adobe-illustrator--v1.png" height='50'>](https://www.adobe.com/products/illustrator.html)  [<img src="https://img.icons8.com/cute-clipart/256/000000/canva-app.png" height='50'>](https://www.canva.com/)
 
 ---
 #### Available On:
@@ -31,10 +34,6 @@
 
 <!--
 
-Strictly Learning: C, java, python, social connection
-
-Available on: github, Linkedin & insta
-
-active commits, profile view
+Comments
 
 -->
