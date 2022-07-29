@@ -1,4 +1,4 @@
-![AJAY](AJAY.jpg)
+![AJAY](Ajay.png)
 
 # HelloWorld, I'm AJAY
 
