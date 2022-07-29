@@ -2,9 +2,7 @@
 
 # HelloWorld, I'm AJAY
 
-### A Passionate learner & A Budding  AI & DS Engineer
-
-### Pursuing BTech in AI & DS from SJCET Palai, Kerala
+* ### Pursuing B.Tech in AI & DS from SJCET Palai, Kerala
 ---
 
 ### Languages Learning:
