@@ -1,8 +1,8 @@
-![AJAY](Ajay.png)
-
 # HelloWorld, I'm AJAY
 
 * ### Pursuing B.Tech in AI & DS from SJCET Palai, Kerala
+
+![AJAY](Ajay.png)
 
 ---
 
