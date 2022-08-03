@@ -49,6 +49,8 @@
 
 </div>
 
+[![AJAY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=004Ajay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/004Ajay)  
 
 
