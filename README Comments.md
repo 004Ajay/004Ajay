@@ -5,11 +5,11 @@ COPY AND PASTE IN NOTEPAD TO SEE THE TABLE FORMAT USED.
 
 | Languages    |  Tools       		        |  Connect      |
 |-----------------|----------------------------|-----------------|
-| C		   |  VS code 		        |  LinkedIn      |
-| Python  	   |  Jupyter Notebook    |  Website      |
-| Java 	   | Psd		        | github	          |
-| Html 	   | Illu			        | instagram    |
-| css 		   | figma  		        | facebook      |
+| C		   |  VS Code 		        | LinkedIn       |
+| Python  	   |  Jupyter Notebook    | Website       |
+| Java 	   | PSD		        | GitHub         |
+| HTML 	   | Illu	strator	        | Instagram   |
+| CSS 		   | Figma  		        | Facebook    |
 
 -->
 
