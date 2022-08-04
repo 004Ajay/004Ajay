@@ -1,7 +1,9 @@
 <!--
 
-Table sample of current readme: 
+Tables sample of current readme: 
 COPY AND PASTE IN NOTEPAD TO SEE THE TABLE FORMAT USED.
+
+Table 1 : 
 
 | Languages    |  Tools       		        |  Connect      |
 |-----------------|----------------------------|-----------------|
@@ -10,6 +12,12 @@ COPY AND PASTE IN NOTEPAD TO SEE THE TABLE FORMAT USED.
 | Java 	   | PSD		        | GitHub         |
 | HTML 	   | Illu	strator	        | Instagram   |
 | CSS 		   | Figma  		        | Facebook    |
+
+Table 2 :
+
+|  Languages		|  C 	           | Python 		   |  Java        | HTML           |  CSS              |
+|  Tools		|  VS Code    | Jupyter Notebook   |  PSD         | Illustrator   |  Figma          |
+|  Connect Me	|   Linkedin   | Website 		   |  GitHub   | Instagram   |  Facebook   |
 
 -->
 
