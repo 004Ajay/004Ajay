@@ -6,6 +6,8 @@
 
 ---
 
+<!-- Table sample is placed in the other file (README Comments.md)-->
+
 | Languages   |  Tools    |  Connect Me |
 | :-------:   | :-------: | :---------: |
 | [<img src="https://img.icons8.com/color/480/000000/c-programming.png" title = "C" height='30'>](https://www.google.com/search?q=c+programming&rlz=1C1CHBF_enIN998IN998&oq=C+Programming&aqs=chrome.0.35i39j0i20i263i512j0i131i433i512j0i20i263i512j0i131i433i512j69i60j69i65j69i60.5289j0j7&sourceid=chrome&ie=UTF-8)| [<img src="https://img.icons8.com/fluency/240/000000/visual-studio-code-2019.png" title = "VS Code" height='30'>](https://www.google.com/search?q=vs+code&oq=vs+code&aqs=chrome..69i57j69i59j0i433i512l2j0i512j0i433i512j0i512j69i60.1255j0j7&sourceid=chrome&ie=UTF-8) | [<img src="https://img.icons8.com/color/480/000000/linkedin.png" title = "LinkedIn" height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ajay-t-shaju-976212183//) |
