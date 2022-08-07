@@ -44,6 +44,6 @@
 
 ![Total Coding Time](http://img.shields.io/badge/Total%20Coding%20Time-1,562%20hours%20~%2065%20days-blue)
 
-![Lines of Codes](https://img.shields.io/badge/Lines%20of%20code%20written-36,348-blue)
+![Lines of Codes](https://img.shields.io/badge/Lines%20of%20code%20written-36,557-blue)
 
 ![Profile views](https://gpvc.arturio.dev/004Ajay)
