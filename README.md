@@ -42,9 +42,9 @@
 
 <b><u> Profile Status </u></b>
 
-![Total Coding Time](http://img.shields.io/badge/Total%20Coding%20Time-1,562%20hours%20~%2065%20days-blue)
+![Total Coding Time](http://img.shields.io/badge/Total%20Coding%20Time-1,568%20hours%20~%2065%20days-blue)
 
-![Lines of Codes](https://img.shields.io/badge/Lines%20of%20code%20written-36,557-blue)
+![Lines of Codes](https://img.shields.io/badge/Lines%20of%20code%20written-36,668-blue)
 
 ![Profile views](https://gpvc.arturio.dev/004Ajay)
 
