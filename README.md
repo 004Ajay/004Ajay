@@ -48,6 +48,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/004Ajay)
 
+![](https://komarev.com/ghpvc/?username=004Ajay)
+
 <details>
 <summary> Disclaimer </summary>
 
