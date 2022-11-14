@@ -42,7 +42,7 @@
 
 <b><u> Profile Status </u></b>
 
-![Total Coding Time](http://img.shields.io/badge/Total%20Coding%20Time-1,607%20hours%20~%2067%20days-blue)
+![Total Coding Time](http://img.shields.io/badge/Total%20Coding%20Time-1,608%20hours%20~%2067%20days-blue)
 
 ![Lines of Codes](https://img.shields.io/badge/Lines%20of%20code%20written-36,868-blue)
 
