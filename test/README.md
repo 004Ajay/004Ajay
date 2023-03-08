@@ -9,7 +9,12 @@
 
 <p align="center"> Programming Languages </p>
 
-<p style="text-align:center;"><a href="https://www.google.com/search?q=c+programming&rlz=1C1CHBF_enIN998IN998&oq=C+Programming&aqs=chrome.0.35i39j0i20i263i512j0i131i433i512j0i20i263i512j0i131i433i512j69i60j69i65j69i60.5289j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.icons8.com/color/480/000000/c-programming.png" title = "C" height='40'></a> <a href="https://www.google.com/search?q=Python&rlz=1C1CHBF_enIN998IN998&oq=Python&aqs=chrome..69i57j69i59l2j69i60j69i65j69i60l2j69i65.5263j0j7&sourceid=chrome&ie=UTF-8"><img src='https://img.icons8.com/color/480/000000/python--v1.png' title = "Python" height='40'></a> <a href="https://www.google.com/search?q=r+programming&rlz=1C1CHBF_enIN998IN998&oq=&aqs=chrome.1.69i57j69i59j0i67l3j69i60l3.1423j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.icons8.com/fluency/240/null/r-project.png" title = "R Programming" height='40'></a></p>
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.google.com/search?q=c+programming&rlz=1C1CHBF_enIN998IN998&oq=C+Programming&aqs=chrome.0.35i39j0i20i263i512j0i131i433i512j0i20i263i512j0i131i433i512j69i60j69i65j69i60.5289j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.icons8.com/color/480/000000/c-programming.png" title = "C" height='40'></a>
+  <a href="https://www.google.com/search?q=Python&rlz=1C1CHBF_enIN998IN998&oq=Python&aqs=chrome..69i57j69i59l2j69i60j69i65j69i60l2j69i65.5263j0j7&sourceid=chrome&ie=UTF-8"><img src='https://img.icons8.com/color/480/000000/python--v1.png' title = "Python" height='40'></a>
+  <a href="https://www.google.com/search?q=r+programming&rlz=1C1CHBF_enIN998IN998&oq=&aqs=chrome.1.69i57j69i59j0i67l3j69i60l3.1423j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.icons8.com/fluency/240/null/r-project.png" title = "R Programming" height='40'></a>
+</div>
+
 
 
 <p align="center"> Tools </p>
