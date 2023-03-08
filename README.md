@@ -2,7 +2,7 @@
 
 * ### Pursuing B.Tech in AI & DS from [SJCET](https://sjcetpalai.ac.in/) [Palai](https://en.wikipedia.org/wiki/Pala,_Kerala), [Kerala](https://en.wikipedia.org/wiki/Kerala)
 
-![AJAY](Ajay.png)
+![AJAY](ReadCode.png)
 
 ---
 
