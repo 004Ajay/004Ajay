@@ -24,16 +24,59 @@
 </table>
 
 
-
-
 <p align="center"> Tools </p>
 
-<p style="text-align:center;"><a href="https://www.google.com/search?q=vs+code&oq=vs+code&aqs=chrome..69i57j69i59j0i433i512l2j0i512j0i433i512j0i512j69i60.1255j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.icons8.com/fluency/240/000000/visual-studio-code-2019.png" title = "VS Code" height='40'></a> <a href="https://www.google.com/search?q=jupyter+notebook& rlz=1C1CHBF_enIN998IN998&oq=Jupyter+Notebook&aqs=chrome.0.35i39i355j46i39i199i465j0i67l3j69i60l3.2332j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.icons8.com/fluency/240/000000/jupyter.png" title = "Jupyter Notebook" height='40'></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color/480/000000/adobe-photoshop--v1.png" title = "Adobe Photoshop" height='40'></a> <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.icons8.com/color/480/000000/adobe-illustrator--v1.png" title = "Adobe Illustrator" height='40'></a> <a href="https://www.figma.com/"><img src="https://img.icons8.com/fluency/240/000000/figma.png" title = "Figma" height='40'></a></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.google.com/search?q=vs+code"><img src="https://img.icons8.com/fluency/240/000000/visual-studio-code-2019.png" title="VS Code" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.google.com/search?q=jupyter+notebook"><img src="https://img.icons8.com/fluency/240/000000/jupyter.png" title="Jupyter Notebook" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.icons8.com/color/480/000000/adobe-photoshop--v1.png" title="Adobe Photoshop" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.icons8.com/color/480/000000/adobe-illustrator--v1.png" title="Adobe Illustrator" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/"><img src="https://img.icons8.com/fluency/240/000000/figma.png" title="Figma" height="40"></a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center"> Connect Me </p>
 
-<p style="text-align:center;"><a href="https://www.linkedin.com/in/ajay-t-shaju-976212183//"><img src="https://img.icons8.com/color/480/000000/linkedin.png" title = "LinkedIn" height='40'></a> <a href="https://004ajay.github.io/"><img src="https://img.icons8.com/fluency/96/000000/domain.png" title = "004Ajay - Website" height='40'></a> <a href="https://github.com/004Ajay"><img src="https://img.icons8.com/fluency/240/ffffff/github.png" title = "GitHub"  height='40'></a> <a href="https://www.instagram.com/mr_againster/"><img src="https://img.icons8.com/fluency/240/000000/instagram-new.png" title = "Instagram" height='40'></a> <a href="https://www.facebook.com/ajaytshaju/"><img src="https://img.icons8.com/fluency/240/000000/facebook-new.png" title = "Facebook" height='40'></a></p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ajay-t-shaju-976212183//">
+        <img src="https://img.icons8.com/color/480/000000/linkedin.png" title="LinkedIn" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://004ajay.github.io/">
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" title="004Ajay - Website" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/004Ajay">
+        <img src="https://img.icons8.com/fluency/240/ffffff/github.png" title="GitHub" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@ajaytshaju"><img src="https://img.icons8.com/ios-filled/50/null/medium-logo.png" title="Medium" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/mr_againster/">
+        <img src="https://img.icons8.com/fluency/240/000000/instagram-new.png" title="Instagram" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/ajaytshaju/">
+        <img src="https://img.icons8.com/fluency/240/000000/facebook-new.png" title="Facebook" height="40"/></a>
+    </td>
+  </tr>
+</table>
+
  
 
 
