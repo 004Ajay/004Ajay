@@ -94,14 +94,14 @@
 
 <!-- Miscellaneous -->
 
-<details> 
+<!-- <details> 
   <summary><b> GitHub Contribution Graphs </b></summary>
    <img src="https://activity-graph.herokuapp.com/graph?username=004Ajay&custom_title=Ajay's%20Contribution%20Graph&theme=react-dark" title = "Ajay's Contribution Graph" /></a>
-</details>
+</details> -->
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/004Ajay)
+<!-- ![Profile views](https://gpvc.arturio.dev/004Ajay) -->
 
 <details>
 <summary> Disclaimer </summary>
