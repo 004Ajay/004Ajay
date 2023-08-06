@@ -110,14 +110,7 @@
 
 * About the whole README
   * All fields are madeup after reading a ton of open materials & trial and errors.
-  * Too much links & extra additions may confuse you, please go through each one.
   * If you need any help regarding any fields, try connecting me via [Instagram](https://www.instagram.com/mr_againster/) 
- 
-<br>
-
-* About Total coding time & lines of code written
-  * Those are calculated using third-party extensions, so accuracy may not be stable
-  * And, the data are manually updated once a while with the help of heat maps, mental calculations & other notes.
 
 ### Thank You, if you read upto this message or skipped.  
 ### Have a great life ahead... 
