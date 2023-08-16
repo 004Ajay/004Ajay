@@ -64,7 +64,7 @@
         <img src="https://img.icons8.com/fluency/240/ffffff/github.png" title="GitHub" height="40"/></a>
     </td>
     <td align="center">
-      <a href="https://medium.com/@ajaytshaju"><img src="https://img.icons8.com/ios-filled/50/null/medium-logo.png" title="Medium" height="40"></a>
+      <a href="https://medium.com/@ajaytshaju"><img src="https://img.icons8.com/color-glass/48/medium-logo.png" title="Medium" height="40"></a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_againster/">
