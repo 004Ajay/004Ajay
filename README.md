@@ -1,6 +1,6 @@
-# HelloWorld, I'm [AJAY](https://www.google.com/search?q=meaning+of+name+ajay&rlz=1C1CHBF_enIN998IN998&oq=meaning+of+name+AJAY&aqs=chrome.0.0i512l5j0i22i30j0i15i22i30j0i22i30l3.7210j1j7&sourceid=chrome&ie=UTF-8)
+# [HelloWorld](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program), I'm [AJAY](https://www.google.com/search?q=meaning+of+name+ajay&rlz=1C1CHBF_enIN998IN998&oq=meaning+of+name+AJAY&aqs=chrome.0.0i512l5j0i22i30j0i15i22i30j0i22i30l3.7210j1j7&sourceid=chrome&ie=UTF-8)
 
-* ### Pursuing B.Tech in AI & DS from [SJCET](https://sjcetpalai.ac.in/) [Palai](https://en.wikipedia.org/wiki/Pala,_Kerala), [Kerala](https://en.wikipedia.org/wiki/Kerala)
+* ### Pursuing B.Tech in [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) [&](https://en.wikipedia.org/wiki/Ampersand) [DS](https://en.wikipedia.org/wiki/Data_science) from [SJCET](https://sjcetpalai.ac.in/) [Palai](https://en.wikipedia.org/wiki/Pala,_Kerala), [Kerala](https://en.wikipedia.org/wiki/Kerala)
 
 ![AJAY](ReadCode.png)
 
