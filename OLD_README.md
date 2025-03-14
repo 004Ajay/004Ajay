@@ -54,11 +54,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/ajay-t-shaju/">
+      <a href="https://www.linkedin.com/in/ajay-t-shaju-976212183//">
         <img src="https://img.icons8.com/color/480/000000/linkedin.png" title="LinkedIn" height="40"/></a>
     </td>
     <td align="center">
-      <a href="https://sites.google.com/view/004ajay">
+      <a href="https://004ajay.github.io/">
         <img src="https://img.icons8.com/fluency/96/000000/domain.png" title="004Ajay - Website" height="40"/></a>
     </td>
     <td align="center">
@@ -78,3 +78,45 @@
     </td>
   </tr>
 </table>
+
+ 
+
+
+---
+
+ <!-- Table format for Streaks & Top Languages --> 
+
+ <details> 
+  <summary><b> Streaks & Top Languages </b></summary>
+
+ | <div class="stats" align="left"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=004Ajay&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) </div> | [![AJAY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=004Ajay&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+ |------------ | ------------|
+
+</details>
+
+<!-- Miscellaneous -->
+
+<!-- <details> 
+  <summary><b> GitHub Contribution Graphs </b></summary>
+   <img src="https://activity-graph.herokuapp.com/graph?username=004Ajay&custom_title=Ajay's%20Contribution%20Graph&theme=react-dark" title = "Ajay's Contribution Graph" /></a>
+</details> -->
+
+<br>
+
+<!-- ![Profile views](https://gpvc.arturio.dev/004Ajay) -->
+
+<details>
+<summary> Disclaimer </summary>
+
+<h4>
+
+* About the whole README
+  * All fields are madeup after reading a ton of open materials & trial and errors.
+  * If you need any help regarding any fields, try connecting me via [Instagram](https://www.instagram.com/mr_againster/) 
+
+### Thank You, if you read upto this message or skipped.  
+### Have a great life ahead... 
+
+</h4>
+
+</details> 
