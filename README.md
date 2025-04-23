@@ -1,14 +1,16 @@
-# [HelloWorld](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program), I'm [AJAY](https://www.google.com/search?q=meaning+of+name+ajay&rlz=1C1CHBF_enIN998IN998&oq=meaning+of+name+AJAY&aqs=chrome.0.0i512l5j0i22i30j0i15i22i30j0i22i30l3.7210j1j7&sourceid=chrome&ie=UTF-8)
+<h1 align="center">
+<a href="https://www.google.com/search?q=meaning+of+name+ajay&rlz=1C1CHBF_enIN998IN998&oq=meaning+of+name+AJAY&aqs=chrome.0.0i512l5j0i22i30j0i15i22i30j0i22i30l3.7210j1j7&sourceid=chrome&ie=UTF-8"> AJAY </a>
+</h1>
 
-* ### [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) [&](https://en.wikipedia.org/wiki/Ampersand) [DS](https://en.wikipedia.org/wiki/Data_science) [Engineer](https://en.wikipedia.org/wiki/Engineer)
-
-<!--- from [SJCET](https://sjcetpalai.ac.in/) [Palai](https://en.wikipedia.org/wiki/Pala,_Kerala), [Kerala](https://en.wikipedia.org/wiki/Kerala) -->
-
-* ### See my resume [here](https://github.com/004Ajay/004Ajay.github.io/blob/main/AJAY_T_SHAJU_RESUME.pdf)
+<p align="center">
+  <a href="004Ajay.github.io">Website</a>
+  <a> | </a>
+  <a href="https://sites.google.com/view/004ajay">Portfolio-Website</a>
+  <a> | </a>
+  <a href="https://sites.google.com/view/004ajay/my-resume">Resume</a>
+</p>
 
 ![AJAY](ReadCode.png)
-
----
 
 <p align="center"> Programming Languages </p>
 
@@ -55,26 +57,39 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/ajay-t-shaju/">
-        <img src="https://img.icons8.com/color/480/000000/linkedin.png" title="LinkedIn" height="40"/></a>
+        <img src="https://img.icons8.com/color/480/000000/linkedin.png" title="Ajay-LinkedIn" height="40"/></a>
     </td>
     <td align="center">
       <a href="https://sites.google.com/view/004ajay">
-        <img src="https://img.icons8.com/fluency/96/000000/domain.png" title="004Ajay - Website" height="40"/></a>
+        <img src="https://img.icons8.com/fluency/96/000000/domain.png" title="Ajay-Portfolio-Website" height="40"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/004Ajay">
-        <img src="https://img.icons8.com/fluency/240/ffffff/github.png" title="GitHub" height="40"/></a>
+        <img src="https://img.icons8.com/fluency/240/ffffff/github.png" title="004Ajay-GitHub" height="40"/></a>
     </td>
     <td align="center">
-      <a href="https://medium.com/@ajaytshaju"><img src="https://img.icons8.com/color-glass/48/medium-logo.png" title="Medium" height="40"></a>
+      <a href="https://medium.com/@ajaytshaju"><img src="https://img.icons8.com/color-glass/48/medium-logo.png" title="Ajay-Medium" height="40"></a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_againster/">
-        <img src="https://img.icons8.com/fluency/240/000000/instagram-new.png" title="Instagram" height="40"/></a>
+        <img src="https://img.icons8.com/fluency/240/000000/instagram-new.png" title="Ajay-Instagram" height="40"/></a>
     </td>
     <td align="center">
       <a href="https://www.facebook.com/ajaytshaju/">
-        <img src="https://img.icons8.com/fluency/240/000000/facebook-new.png" title="Facebook" height="40"/></a>
+        <img src="https://img.icons8.com/fluency/240/000000/facebook-new.png" title="Ajay-Facebook" height="40"/></a>
     </td>
   </tr>
 </table>
+
+<details>
+<summary> Other Useful Items </summary>
+
+* [Good Reads](https://sites.google.com/view/004ajay/reads)
+
+* [Projects](https://sites.google.com/view/004ajay/projects)
+
+* [Blogs](https://sites.google.com/view/004ajay/blogs)
+
+* [Useful Commands](https://004ajay.github.io/commands) (Coming Soon!)
+
+</details>
