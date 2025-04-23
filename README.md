@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="004Ajay.github.io">Website</a>
+  <a href="http://004Ajay.github.io">Website</a>
   <a> | </a>
   <a href="https://sites.google.com/view/004ajay">Portfolio-Website</a>
   <a> | </a>
