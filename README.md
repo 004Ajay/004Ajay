@@ -39,13 +39,13 @@
       <a href="https://pandas.pydata.org/"><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" title="Pandas" height="40"></a>
     </td>
     <td align="center">
-      <a href="https://numpy.org/"><img src="https://numpy.org/images/logo.svg" title="Numpy" height="40"></a>
+      <a href="https://numpy.org/"><img src="Icons/NumPy.svg" title="Numpy" height="30"></a>
     </td>
     <td align="center">
       <a href="https://playwright.dev/python"><img src="Icons/Playwright.svg" title="Playwright" height="40"></a>
     </td>
     <td align="center">
-      <a href="https://www.langchain.com/"><img src="Icons/Langchain.svg" title="LangChain" height="50"></a>
+      <a href="https://www.langchain.com/"><img src="Icons/LangChain.svg" title="LangChain" height="50"></a>
     </td>
     <td align="center">
       <a href="https://www.docker.com/"><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" title="Docker" height="40"></a>
