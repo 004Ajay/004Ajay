@@ -25,6 +25,31 @@
     <td align="center">
       <a href="https://www.google.com/search?q=r+programming"><img src="https://img.icons8.com/fluency/240/null/r-project.png" title="R Programming" height='40'></a>
     </td>
+    <td align="center">
+      <a href="https://www.latex-project.org/get/"><img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" title="LaTeX" height='40'></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"> Technologies </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://pandas.pydata.org/"><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" title="Pandas" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://numpy.org/"><img src="https://numpy.org/images/logo.svg" title="Numpy" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://playwright.dev/python"><img src="Icons/Playwright.svg" title="Playwright" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.langchain.com/"><img src="Icons/Langchain.svg" title="LangChain" height="50"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/"><img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" title="Docker" height="40"></a>
+    </td>
   </tr>
 </table>
 
@@ -32,6 +57,12 @@
 
 <table align="center">
   <tr>
+    <td align="center">
+      <a href="https://linux.org"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" title="Linux" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" title="Windows" height="40"></a>
+    </td>
     <td align="center">
       <a href="https://www.google.com/search?q=vs+code"><img src="https://img.icons8.com/fluency/240/000000/visual-studio-code-2019.png" title="VS Code" height="40"></a>
     </td>
@@ -43,6 +74,9 @@
     </td>
     <td align="center">
       <a href="https://www.adobe.com/products/illustrator.html"><img src="https://img.icons8.com/color/480/000000/adobe-illustrator--v1.png" title="Adobe Illustrator" height="40"></a>
+    </td>
+    <td align="center">
+      <a href="https://excalidraw.com/"><img src="Icons/Excalidraw.svg" title="Excalidraw" height="60"></a>
     </td>
     <td align="center">
       <a href="https://www.figma.com/"><img src="https://img.icons8.com/fluency/240/000000/figma.png" title="Figma" height="40"></a>
